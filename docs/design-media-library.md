@@ -4,6 +4,7 @@
 - 目标分支：`feat/media-library`（自 `main` 切出）
 - 涉及仓库：WinShun（MIT，C++/Qt6/QML，Windows）、amane（GPLv3，Python 3.14/FastAPI/React，版本 0.22.1，分析用本地副本 `10c4b35`）
 - 文档性质：可行性分析 + 实现落地方案，不含代码改动
+- 对照方案：[design-amane-frontend.md](design-amane-frontend.md)（方案二：WinShun 只做 amane 的原生前端，不重写检索核心；建议先用它验证产品价值）
 
 ---
 
